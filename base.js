@@ -10,3 +10,4 @@ $(document).ready(function() {
 
     $('#cart-count').html(totalCount);
 })
+// Just a normal comment
