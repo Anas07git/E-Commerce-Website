@@ -79,7 +79,7 @@ $(document).ready(function(){
 
       return mainDiv;
     }
-
+// Just a normal comment
     $.get('https://5d76bf96515d1a0014085cf9.mockapi.io/product', function(data, status) {
       var response = data;
 
